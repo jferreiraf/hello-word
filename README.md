@@ -1,4 +1,4 @@
-<h1> <font color="tomato">Hello World!</font></h1>
+<h1> <font color="red">Hello World!</font></h1>
 
 <list>
 <ul>Teste de funcionamento do github.</ul>

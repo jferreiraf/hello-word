@@ -7,7 +7,7 @@
 
 <br>
 
-Data criação |                             Projetos                                          | Linguagem    | Breve descrição
+Data criação |                             Projetos                                          | Recursos     | Breve descrição
 :--------:   | :--------                                                                     | :--------    |:-----
 06/2022      |<a href="https://github.com/jferreiraz/hello-word">hello-word                  |Markdown, html|Apenas organização e alguns detalhes.
 06/2022      |<a href="https://github.com/jferreiraz/Animacao-CSS">Animacao-CSS              |css, html     |Arquivos baseados em css.

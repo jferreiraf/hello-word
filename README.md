@@ -1,9 +1,8 @@
 <h1> Projetos github.com/jferreiraz</h1>
 
 
-> Teste de funcionamento do github.<br> 
-> Testando site visando aperfeiçoar e melhorar o controle de versão dos meus códigos.<br>
-> Publicando meus projetos, melhorando a organização e compartilhando meus projetos.<br>
+> Estudando programação visando aperfeiçoar e melhorar o controle de versão dos meus códigos.<br>
+> 
 > Listados abaixo meus projetos com link de referência para melhor navegação.<br>
 
 <br>

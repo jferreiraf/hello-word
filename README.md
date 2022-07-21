@@ -1,4 +1,4 @@
-<h1> Projetos github.com/jferreiraz</h1>
+<h1> Projetos jferreiraz</h1>
 
 
 > Estudando programação visando aperfeiçoar e melhorar o controle de versão dos meus códigos.<br>

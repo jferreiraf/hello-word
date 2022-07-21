@@ -9,7 +9,7 @@
 
 *Data criação*|                             *Projetos*                                         | *Recursos*                  | *Breve descrição* 
 :--------:   | :--------                                                                       | :--------                   |:-----
-06/2022      |<a href="https://github.com/jferreiraz/hello-word">_hello-word_                  |Markdown, html               |Apenas organização e alguns detalhes.
+06/2022      |<a href="https://github.com/jferreiraz/repositorios">_repositorios_              |Markdown, html               |Apenas organização e alguns detalhes.
 06/2022      |<a href="https://github.com/jferreiraz/Animacao-CSS">_Animacao-CSS_              |css, html                    |Arquivos baseados em css.
 06/2022      |<a href="https://github.com/jferreiraz/botao-css">_botao-css_                    |css, html                    |Botão animado em css.
 06/2022      |<a href="https://github.com/jferreiraz/jferreiraz">_jferreiraz_                  |css, html                    |Readme, página inicial do github.

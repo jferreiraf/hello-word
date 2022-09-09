@@ -16,4 +16,5 @@
 06/2022      |<a href="https://github.com/jferreiraz/Formulario-HTML-CSS">_Formulario-HTML-CSS_|css, html                    |Formulário utilizando html e css.
 07/2022      |<a href="https://github.com/jferreiraz/Login">_Login_                            |css, html                    |Formulário utilizando html e css.
 07/2022      |<a href="https://github.com/jferreiraz/ecommerce">_ecommerce_                    |php, css, html, composer, sql|Ecommerce funcional em php, stylezação, autoload e mais.
+09/2022      |<a href="https://github.com/jferreiraz/Swarm">_Swarm_                    |python, jupyter              |Simulation of multi-agent swarm event
                   

@@ -1,7 +1,7 @@
 <h1> Projetos jferreiraz</h1>
 
 
-> Estudando programação visando aperfeiçoar e melhorar o controle de versão dos meus códigos.<br>
+> Estudando programação visando aperfeiçoar e melhorar técnicas de programação e aqui no github principalmente meu controle de versão eo rganização dos meus códigos e projetos.<br>
 > 
 > Listados abaixo meus projetos com link de referência para melhor navegação.<br>
 

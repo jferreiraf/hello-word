@@ -4,6 +4,7 @@
 
 [<img align="left" alt="jferreiraz | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="jferreiraz | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
+[<img align="left" alt="jferreiraz | Telefone" width="22px" https://t4.ftcdn.net/jpg/02/19/09/71/240_F_219097100_OdRMzvcr1CGgGfHEeke5gy4JSzLo9VaO.jpg />][telefone]
 
 <br></h2><h4>
 
@@ -30,3 +31,4 @@
 
 [linkedin]: https://www.linkedin.com/in/jferreiraz/
 [gmail]: mailto:joaofelipecoutof@gmail.com
+[telefone]: +55(61)99683-3108 

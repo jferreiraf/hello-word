@@ -26,7 +26,7 @@
 07/2022        |<a href="https://github.com/jferreiraz/ecommerce">_ecommerce_                     |php, css, html, composer, sql |Ecommerce funcional em php, stylezação, autoload e mais.
 09/2022        |<a href="https://github.com/jferreiraz/Swarm">_Swarm_                             |python, jupyter               |Simulation of multi-agent swarm event
 09/2022        |<a href="https://github.com/jferreiraz/ShortestPath">_ShortestPath_               |python, jupyter               |Finding the sortest route between two cities
-09/2022        |<a href="https://github.com/jferreiraz/GerenciadorFinancas">_GerenciadorFinanças_ |Nodejs, React Native, JS/TS...|Gerenciador de Finanças mobile
+09/2022        |<a href="https://github.com/jferreiraz/GerenciadorFinancas">_GerenciadorFinanças_ |nodejs, react native, js/ts...|Gerenciador de Finanças mobile
 09/2022        |<a href="https://github.com/jferreiraz/ShortestPathV2">_ShortestPathV2_           |python, jupyter               |Complex version of the ShortestPath
 </div>
 

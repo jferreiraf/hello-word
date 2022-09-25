@@ -18,15 +18,16 @@
 <h3>My projects: </h3>
 
 
-*Creation date*|                             *Projects*                                 | *Resources*                 | *Brief description* 
-:--------:     | :--------                                                              | :------                     |:-----
-06/2022        |<a href="https://github.com/jferreiraz/jferreiraz">_jferreiraz_         |Markdown, html               |Readme, página inicial do github.
-06/2022        |<a href="https://github.com/jferreiraz/CSS">_CSS_                       |css, html                    |Diversos projetos com base em html,css.
-06/2022        |<a href="https://github.com/jferreiraz/dao">_dao_                       |php, html, sql               |Data acess object em php.
-07/202         |<a href="https://github.com/jferreiraz/ecommerce">_ecommerce_           |php, css, html, composer, sql|Ecommerce funcional em php, stylezação, autoload e mais.
-09/2022        |<a href="https://github.com/jferreiraz/Swarm">_Swarm_                   |python, jupyter              |Simulation of multi-agent swarm event
-09/2022        |<a href="https://github.com/jferreiraz/ShortestPath">_ShortestPath_     |python, jupyter              |Finding the sortest route between two cities
-09/2022        |<a href="https://github.com/jferreiraz/ShortestPathV2">_ShortestPathV2_ |python, jupyter              |Complex version of the ShortestPath
+*Creation date*|                             *Projects*                                           | *Resources*                  | *Brief description* 
+:--------:     | :--------                                                                        | :------                      |:-----
+06/2022        |<a href="https://github.com/jferreiraz/jferreiraz">_jferreiraz_                   |Markdown, html                |Readme, página inicial do github.
+06/2022        |<a href="https://github.com/jferreiraz/CSS">_CSS_                                 |css, html                     |Diversos projetos com base em html,css.
+06/2022        |<a href="https://github.com/jferreiraz/dao">_dao_                                 |php, html, sql                |Data acess object em php.
+07/2022        |<a href="https://github.com/jferreiraz/ecommerce">_ecommerce_                     |php, css, html, composer, sql |Ecommerce funcional em php, stylezação, autoload e mais.
+09/2022        |<a href="https://github.com/jferreiraz/Swarm">_Swarm_                             |python, jupyter               |Simulation of multi-agent swarm event
+09/2022        |<a href="https://github.com/jferreiraz/ShortestPath">_ShortestPath_               |python, jupyter               |Finding the sortest route between two cities
+09/2022        |<a href="https://github.com/jferreiraz/GerenciadorFinancas">_GerenciadorFinanças_ |Nodejs, React Native, JS/TS...|Gerenciador de Finanças mobile
+09/2022        |<a href="https://github.com/jferreiraz/ShortestPathV2">_ShortestPathV2_           |python, jupyter               |Complex version of the ShortestPath
 </div>
 
 [linkedin]: https://www.linkedin.com/in/jferreiraz/

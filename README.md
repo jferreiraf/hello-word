@@ -20,14 +20,14 @@
 
 *Creation date*|                             *Projects*                                           | *Resources*                   | *Brief description* 
 :--------:     | :--------                                                                        | :------                       |:-----
-06/2022        |<a href="https://github.com/jferreiraz/jferreiraz">_jferreiraz_                   |Markdown, html                 |Readme, página inicial do github.
-06/2022        |<a href="https://github.com/jferreiraz/CSS">_CSS_                                 |css, html                      |Diversos projetos com base em html,css.
-06/2022        |<a href="https://github.com/jferreiraz/dao">_dao_                                 |php, html, sql                 |Data acess object em php.
-07/2022        |<a href="https://github.com/jferreiraz/ecommerce">_ecommerce_                     |php, css, html, composer, sql  |Ecommerce funcional em php, stylezação, autoload e mais.
+06/2022        |<a href="https://github.com/jferreiraz/jferreiraz">_Jferreiraz_                   |Markdown, html                 |Readme, initial page of github.
+06/2022        |<a href="https://github.com/jferreiraz/CSS">_CSS_                                 |css, html                      |Various projects using html,css.
+06/2022        |<a href="https://github.com/jferreiraz/dao">_DAO_                                 |php, html, sql                 |Data acess object to php language.
+07/2022        |<a href="https://github.com/jferreiraz/ecommerce">_Ecommerce_                     |php, css, html, composer, sql  |Functional ecommerce in php
 09/2022        |<a href="https://github.com/jferreiraz/Swarm">_Swarm_                             |python, jupyter                |Simulation of multi-agent swarm event
-09/2022        |<a href="https://github.com/jferreiraz/ShortestPath">_ShortestPath_               |python, jupyter                |Finding the sortest route between two cities
-09/2022        |<a href="https://github.com/jferreiraz/GerenciadorFinancas">_GerenciadorFinanças_ |nodejs, react native, js/tsx...|Gerenciador de Finanças mobile
-09/2022        |<a href="https://github.com/jferreiraz/ShortestPathV2">_ShortestPathV2_           |python, jupyter                |Complex version of the ShortestPath
+09/2022        |<a href="https://github.com/jferreiraz/ShortestPath">_ShortestPath_               |python, jupyter                |Finding the shortest route between two cities
+09/2022        |<a href="https://github.com/jferreiraz/GerenciadorFinancas">_FinanceManager_      |nodejs, react native, js/tsx...|Finance manager mobile version
+09/2022        |<a href="https://github.com/jferreiraz/ShortestPathV2">_ShortestPathV2_           |python, jupyter                |Complex version of the Shortest path
 </div>
 
 [linkedin]: https://www.linkedin.com/in/jferreiraz/

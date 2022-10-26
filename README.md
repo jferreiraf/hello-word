@@ -29,6 +29,7 @@
 09/2022        |<a href="https://github.com/jferreiraz/GerenciadorFinancas">_FinanceManager_      |nodejs, react native, js/tsx...|Finance manager mobile version
 09/2022        |<a href="https://github.com/jferreiraz/ShortestPathV2">_ShortestPathV2_           |python, jupyter                |Complex version of the Shortest path
 09/2022        |<a href="https://github.com/jferreiraz/ThreeJS">_ThreeJS_                         |html, javascript, threejs      |3D cube in rotation, learning threejs
+10/2022        |<a href="https://github.com/jferreiraz/ProjetoAngular">_ProjetoAngular_           |angular,html,css, js/tsx       |Learning about angular
 </div>
 
 [linkedin]: https://www.linkedin.com/in/jferreiraz/

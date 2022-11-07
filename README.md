@@ -1,6 +1,6 @@
 <h1> Jferreiraz</h1>
 
-<h2>Click on the icons below to contact: <br><br>
+<h2>Click on the icons below to contact: <br><br> 
 
 [<img align="left" alt="jferreiraz | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="jferreiraz | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]

@@ -1,5 +1,5 @@
 <h1> Jferreiraz</h1>
-
+ 
 <h2>Click on the icons below to contact: <br><br>  
 
 [<img align="left" alt="jferreiraz | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]

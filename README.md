@@ -31,6 +31,7 @@
 09/2022        |<a href="https://github.com/jferreiraz/ThreeJS">_ThreeJS_                         |html, javascript, threejs      |3D cube in rotation, learning threejs
 10/2022        |<a href="https://github.com/jferreiraz/ProjetoAngular">_AngularProject_           |angular, html, css, js/tsx     |Learning about angular
 11/2022        |<a href="https://github.com/jferreiraz/TerrainGenerator">_TerrainGenerator_       |java, processing               |Uneven terrain generator in java
+11/2022        |<a href="https://github.com/jferreiraz/ObjectIdentifier">_ObjectIdentifier_       |python, jupyter                |application capable of identifying objects and beings from an image
 </div>
 
 [linkedin]: https://www.linkedin.com/in/jferreiraz/

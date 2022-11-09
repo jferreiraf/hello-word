@@ -1,11 +1,19 @@
 <h1> Jferreiraz</h1>  
  
-<h2>Click on the icons below to contact: <br><br>   
+<h2>Click on the icons below to contact:<br>
+ </h2>
+ 
+<h4>
+ 
+ _(Clique nos ícones abaixo para entrar em contato)_
+ </h4><br>
+
+
 
 [<img align="left" alt="jferreiraz | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="jferreiraz | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
 
-<br></h2><h4>
+<br><h4>
 
 >Pleasure, my name is João Felipe, I'm Brazilian and I'm 20 years old. <br><br>
 >I have been studying programming since 2019. <br>During these years I managed to develop a very good foundation regarding programming logics. I managed to learn several languages in depth, among them I can mention javascript, php, C and python. <br><br>

@@ -41,7 +41,7 @@
 11/2022        |<a href="https://github.com/jferreiraz/TerrainGenerator">_TerrainGenerator_       |java, processing               |Uneven terrain generator in java
 11/2022        |<a href="https://github.com/jferreiraz/ObjectIdentifier">_ObjectIdentifier_       |python, jupyter                |Application capable of identifying objects from an image
 11/2022        |<a href="https://github.com/jferreiraz/JavaBank">_JavaBank_                       |java application, xampp/mysql  |java application capable of transfers, insertion, account management
-11/2022        |<a href="https://github.com/jferreiraz/JavaSchool">_JavaSchool_                   |java application, xampp/mysql  |java application responsible for inserting and generating data regarding the students' report cards
+11/2022        |<a href="https://github.com/jferreiraz/JavaSchool">_SchoolApp_                    |java application, xampp/mysql  |java application responsible for inserting and generating data regarding the students' report cards
  
 </div>
 

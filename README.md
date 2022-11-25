@@ -28,9 +28,9 @@
 
 *Creation date*|                             *Projects*                                           | *Resources*                   | *Brief description* 
 :--------:     | :--------                                                                        | :------                       |:-----
-06/2022        |<a href="https://github.com/jferreiraz/jferreiraz">_Jferreiraz_                   |html, markdown                 |Readme, initial page of github.
-06/2022        |<a href="https://github.com/jferreiraz/CSS">_CSS_                                 |css, html                      |Several projects using html,css.
-06/2022        |<a href="https://github.com/jferreiraz/dao">_DAO_                                 |php, html, sql                 |Data acess object for php language.
+06/2022        |<a href="https://github.com/jferreiraz/jferreiraz">_Jferreiraz_                   |html, markdown                 |Readme, initial page of github
+06/2022        |<a href="https://github.com/jferreiraz/CSS">_CSS_                                 |css, html                      |Several projects using html,css
+06/2022        |<a href="https://github.com/jferreiraz/dao">_DAO_                                 |php, html, sql                 |Data acess object for php language
 07/2022        |<a href="https://github.com/jferreiraz/ecommerce">_Ecommerce_                     |php, css, html, composer, sql  |Functional ecommerce in php
 09/2022        |<a href="https://github.com/jferreiraz/Swarm">_Swarm_                             |python, jupyter                |Simulation of multi-agent swarm event
 09/2022        |<a href="https://github.com/jferreiraz/ShortestPath">_ShortestPath_               |python, jupyter                |Finding the shortest route between two cities
@@ -41,7 +41,7 @@
 11/2022        |<a href="https://github.com/jferreiraz/TerrainGenerator">_TerrainGenerator_       |java, processing               |Uneven terrain generator in java
 11/2022        |<a href="https://github.com/jferreiraz/ObjectIdentifier">_ObjectIdentifier_       |python, jupyter                |Application capable of identifying objects from an image
 11/2022        |<a href="https://github.com/jferreiraz/JavaBank">_JavaBank_                       |java application, xampp/mysql  |java application capable of transfers, insertion, account management
-11/2022        |<a href="https://github.com/jferreiraz/JavaSchool">_SchoolApp_                    |java application, xampp/mysql  |java application responsible for inserting and generating data regarding the students' report cards
+11/2022        |<a href="https://github.com/jferreiraz/JavaSchool">_SchoolApp_                    |java application, xampp/mysql  |java application responsible for inserting and generating data regarding the students report cards
  
 </div>
 

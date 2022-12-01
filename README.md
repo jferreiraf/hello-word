@@ -42,9 +42,9 @@
 11/2022        |<a href="https://github.com/jferreiraz/ObjectIdentifier">_ObjectIdentifier_       |python, jupyter                |Application capable of identifying objects from an image
 11/2022        |<a href="https://github.com/jferreiraz/JavaBank">_JavaBank_                          |java application, xampp/mysql  |java application capable of transfers, insertion, account management
 11/2022        |<a href="https://github.com/jferreiraz/JavaSchool">_SchoolApp_                       |java application, xampp/mysql  |java application responsible for inserting and generating data regarding the students report cards
-11/2022        |<a href="https://github.com/jferreiraz/SMSTextClassification">_SMSTextClassification_|python, jupyter                |Using IA to classify text messages
-11/2022        |<a href="https://github.com/jferreiraz/BookRecomendation">_BookRecomendation_        |python, jupyter                |Making a book recomendation with IA
-11/2022        |<a href="https://github.com/jferreiraz/LinearRegression">_LinearRegression_          |python, jupyter                |Simulating linear regression wtih IA
+12/2022        |<a href="https://github.com/jferreiraz/SMSTextClassification">_SMSTextClassification_|python, jupyter                |Using IA to classify text messages
+12/2022        |<a href="https://github.com/jferreiraz/BookRecomendation">_BookRecomendation_        |python, jupyter                |Making a book recomendation with IA
+12/2022        |<a href="https://github.com/jferreiraz/LinearRegression">_LinearRegression_          |python, jupyter                |Simulating linear regression wtih IA
  
 </div>
 

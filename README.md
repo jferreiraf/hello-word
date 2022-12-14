@@ -12,6 +12,8 @@
 
 [<img align="left" alt="jferreiraz | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="jferreiraz | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
+[<img align="left" alt="jferreiraz | Playstore" width="22px" src="https://cdn-icons-png.flaticon.com/512/3128/3128279.png" />][playstore]
+[<img align="left" alt="jferreiraz | Youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
 
 <br><h4>
 
@@ -51,3 +53,5 @@
 
 [linkedin]: https://www.linkedin.com/in/jferreiraz/
 [gmail]: mailto:joaofelipecoutof@gmail.com
+[playstore]: https://play.google.com/store/apps/dev?id=9150047033132310244
+[youtube]: https://www.youtube.com/@jferreiraf

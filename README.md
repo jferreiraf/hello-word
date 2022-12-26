@@ -1,6 +1,6 @@
 <h1> Jferreiraz</h1>  
  
-<h2>Click on the icons below to contact:<br>
+<h2>Click on the icons below to contact:<br> 
  </h2>
  
 <h4>

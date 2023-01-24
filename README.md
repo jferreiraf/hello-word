@@ -10,11 +10,11 @@
 
 
 
-[<img align="left" alt="jferreiraz | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="jferreiraz | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
-[<img align="left" alt="jferreiraz | Playstore" width="22px" src="https://cdn-icons-png.flaticon.com/512/3128/3128279.png" />][playstore]
-[<img align="left" alt="jferreiraz | Youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
-[<img align="left" alt="jferreiraz | Youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
+[<img align="left" alt="jferreiraz | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="jferreiraz | Gmail" width="32px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
+[<img align="left" alt="jferreiraz | Playstore" width="32px" src="https://cdn-icons-png.flaticon.com/512/3128/3128279.png" />][playstore]
+[<img align="left" alt="jferreiraz | Youtube" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
+[<img align="left" alt="jferreiraz | Youtube" width="32px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" />][whatsapp]
 
 <br><h4>
 

@@ -22,6 +22,7 @@
 >I have been studying programming since 2019. <br>During these years I managed to develop a very good foundation regarding programming logics. I managed to learn several languages in depth, among them I can mention javascript, php, C and python. <br><br>
 >Mathematics and logical reasoning is my thing, I like numbers, especially when it involves accounting and I'm usually good at it.
 
+<br>
 </h4>
 
 ##

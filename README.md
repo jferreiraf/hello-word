@@ -32,7 +32,7 @@
 
 *Creation date*|                             *Projects*                                           | *Resources*                   | *Brief description* 
 :--------:     | :--------                                                                        | :------                       |:-----
-04/2022        |<a href="https://github.com/jferreiraz/CSS">_CSS_                                 |css, html                      |Several projects using html,css
+04/2022        |<a href="https://github.com/jferreiraz/CSS">_CSS_                                 |css, html                      |Several projects using html, css
 06/2022        |<a href="https://github.com/jferreiraz/jferreiraz">_Jferreiraz_                   |html, markdown                 |Readme, initial page of github
 06/2022        |<a href="https://github.com/jferreiraz/dao">_DAO_                                 |php, html, sql                 |Data acess object for php language
 07/2022        |<a href="https://github.com/jferreiraz/ecommerce">_Ecommerce_                     |php, css, html, composer, sql  |Functional ecommerce in php
@@ -50,7 +50,8 @@
 12/2022        |<a href="https://github.com/jferreiraz/BookRecomendation">_BookRecomendation_        |python, jupyter                |Making a book recomendation with AI
 12/2022        |<a href="https://github.com/jferreiraz/LinearRegression">_LinearRegression_          |python, jupyter                |Simulating linear regression with AI
 12/2022        |<a href="https://github.com/jferreiraz/DogAndCatClassification">_DogAndCatClassification_ |python, jupyter           |Cat and dog image classifier
-12/2022        |<a href="https://github.com/jferreiraz/RockPaperScissors">_RockPaperScissors_ |python                                |A RPS game with AI that calculates the probabilities to win 
+12/2022        |<a href="https://github.com/jferreiraz/RockPaperScissors">_RockPaperScissors_ |python                                |A RPS game with AI that calculates the probabilities to win
+02/2023        |<a href="https://github.com/jferreiraz/Login">_Login_                                  |html, css                     |Styled register and login
  
 </div>
 

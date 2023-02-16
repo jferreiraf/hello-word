@@ -51,7 +51,7 @@
 12/2022        |<a href="https://github.com/jferreiraz/LinearRegression">_LinearRegression_          |python, jupyter                |Simulating linear regression with AI
 12/2022        |<a href="https://github.com/jferreiraz/DogAndCatClassification">_DogAndCatClassification_ |python, jupyter           |Cat and dog image classifier
 12/2022        |<a href="https://github.com/jferreiraz/RockPaperScissors">_RockPaperScissors_ |python                                |A RPS game with AI that calculates the probabilities to win
-02/2023        |<a href="https://github.com/jferreiraz/Login">_Login_                                  |html, css                     |Styled register and login
+02/2023        |<a href="https://github.com/jferreiraz/Login">_Login_                                  |html, css, js                |Styled register and login
  
 </div>
 

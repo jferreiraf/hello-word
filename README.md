@@ -55,7 +55,8 @@
 02/2023        |<a href="https://github.com/jferreiraz/Login">_Login_                                  |html, css, js                |Styled register and login
 02/2023        |<a href="https://github.com/jferreiraz/TenantManagement">_TenantManagement_            |C (console application)      |C application responsible for tenant management
 03/2023        |<a href="https://github.com/jferreiraz/SistemaCadastro">_RegistrationSystem_           |java (android studio)        |Mobile application capable of managing users
-03/2023        |<a href="https://github.com/jferreiraz/SistemaCadastro">_JavaLogin_                    |java, jsp, html, css, mysql  |Login in java with different tools 
+03/2023        |<a href="https://github.com/jferreiraz/SistemaCadastro">_JavaLogin_                    |java, jsp, html, css, mysql  |Login in java with different tools
+04/2023        |<a href="https://github.com/jferreiraz/npj">_LegalManager_                             |angular, html, css, java     |Legal manager to data control
   
 </div>
 

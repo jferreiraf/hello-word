@@ -58,8 +58,8 @@
 03/2023        |<a href="https://github.com/jferreiraz/SistemaCadastro">_RegistrationSystem_           |java (android studio)        |Mobile application capable of managing users
 03/2023        |<a href="https://github.com/jferreiraz/SistemaCadastro">_JavaLogin_                    |java, jsp, html, css, mysql  |Login in java with different tools
 04/2023        |<a href="https://github.com/jferreiraz/npj">_LegalManager_                             |angular, html, css, java     |Legal manager to data control
-04/2023        |<a href="https://github.com/jferreiraz/WebScrap">_WebScrap_                            |RPA PIX Studio               |Robot process automation to web scrapping
-05/2023        |<a href="https://github.com/jferreiraz/LocBom">_LocBom_                                |Java, JSP, CSS, HTML, Servlets... |Tenant Manager web application
+04/2023        |<a href="https://github.com/jferreiraz/WebScrap">_WebScrap_                            |rpa pix studio               |Robot process automation to web scrapping
+05/2023        |<a href="https://github.com/jferreiraz/LocBom">_LocBom_                                |java, jsp, css, html, servlets |Tenant Manager web application
   
 </div>
 

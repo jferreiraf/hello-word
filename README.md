@@ -19,7 +19,7 @@
 
 <br><br><h4>
 
->Pleasure, my name is João Felipe, I'm Brazilian and I'm 20 years old. <br><br>
+>Pleasure, my name is João Felipe, I'm Brazilian and I'm 21 years old. <br><br>
 >I have been studying programming since 2020. <br>During these years I managed to develop a very good foundation regarding programming logics. I managed to learn several languages in depth, among them I can mention javascript, php, C and python. <br><br>
 >Mathematics and logical reasoning is my thing, I like numbers, especially when it involves accounting and I'm usually good at it.<br><br>
 >Graduated in systems analysis and development, currently working at <a href="https://www.linkedin.com/company/takter/">Takter Brazil </a>and studying postgraduate studies in software engineering.

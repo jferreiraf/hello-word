@@ -62,7 +62,9 @@
 05/2023        |<a href="https://github.com/jferreiraz/LocBom">_LocBom_                                |java, jsp, css, html, servlets |Tenant Manager web application
 06/2023        |<a href="https://github.com/jferreiraz/FlutterfireLogin">_FlutterfireLogin_            |flutter, firebase, dart        |Simple login using flutterfire
 11/2023        |<a href="https://github.com/jferreiraz/ProjetoConsulta">_QueryProject_                 |reactjs, css                   |Company consultation via name and CNPJ
-04/2024        |<a href="https://github.com/jferreiraz/TemperatureHumiditySensor">_ArduinoTempHumdSensor_ |arduino, C++              |Temperature and humidity sensor using Arduino
+04/2024        |<a href="https://github.com/jferreiraz/TemperatureHumiditySensor">_ArduinoTempHumdSensor_ |arduino, c            |Temperature and humidity sensor using Arduino
+06/2024        |<a href="https://github.com/jferreiraz/ESP32GIF">_ESP32GIF_                       |arduino, c                    |GIF on ESP32
+07/2024        |<a href="https://github.com/jferreiraz/CrudJava">_CrudJava_                       |postgresql, java              |CRUD tutorial in java using postgresql
   
 </div>
 

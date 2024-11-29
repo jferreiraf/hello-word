@@ -22,7 +22,7 @@
 >Pleasure, my name is João Felipe, I'm Brazilian and I'm 22 years old. <br><br>
 >I have been studying programming since 2020. <br>During these years I managed to develop a very good foundation regarding programming logics. I managed to learn several languages in depth, among them I can mention javascript, php, C and python. <br><br>
 >Mathematics and logical reasoning is my thing, I like numbers, especially when it involves accounting and I'm usually good at it.<br><br>
->Graduated in systems analysis and development, currently working at <a href="https://www.linkedin.com/company/takter/">Takter Brazil </a>and studying postgraduate studies in software engineering.
+>Graduated in systems analysis and development, postgraduate in software engineering currently working at <a href="https://www.linkedin.com/company/takter/">Takter Brazil </a>and studying for master's degree in cybersecurity.
 
 
 </h4>
@@ -65,6 +65,7 @@
 04/2024        |<a href="https://github.com/jferreiraz/TemperatureHumiditySensor">_ArduinoTempHumdSensor_ |arduino, c            |Temperature and humidity sensor using Arduino
 06/2024        |<a href="https://github.com/jferreiraz/ESP32GIF">_ESP32GIF_                       |arduino, c                    |GIF on ESP32
 07/2024        |<a href="https://github.com/jferreiraz/CrudJava">_CrudJava_                       |postgresql, java              |CRUD tutorial in java using postgresql
+11/2024        |<a href="https://github.com/jferreiraz/ProjetoConsultaV2">_QueryProjectV2_                       |reactjs, js, html, css              |Company consultation via name, CNPJ and another information
   
 </div>
 
